@@ -4,7 +4,7 @@ An end-to-end job recommendation platform that automates job collection, data pr
 
 The project consists of multiple independent modules, each responsible for a different stage of the recommendation pipeline.
 
-For the final Job recommendation application : [Job Recommender](https://github.com/username/repository-name)
+For the final Job recommendation application : [Job Recommender](https://github.com/codebyte17/job-recommender-system/blob/main/job-recommendation-app/README.md)
 
 ---
 
