@@ -15,10 +15,6 @@ The application is designed as a modular system consisting of:
 
 # Architecture
 
-> **Architecture diagram goes here**
-
-<h2 align="center">System Architecture</h2>
-
 <p align="center">
   <img src="docs/architecture.png" width="900">
 </p>

@@ -1,8 +1,10 @@
 # Job Recommendation System
 
-An end-to-end AI-powered job recommendation platform that automates job collection, data preprocessing, candidate profile generation, recommendation model development, evaluation, and deployment.
+An end-to-end job recommendation platform that automates job collection, data preprocessing, candidate profile generation, evaluation, and deployment.
 
 The project consists of multiple independent modules, each responsible for a different stage of the recommendation pipeline.
+
+For the final Job recommendation application : [Job Recommender](https://github.com/username/repository-name)
 
 ---
 
