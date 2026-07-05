@@ -1,0 +1,1 @@
+{"ranking/overlap_weight":0.15,"_timestamp":1.7825497276731489e+09,"_step":0,"ranking/method":"hybrid","_wandb":{"runtime":78},"_runtime":78,"ranking/cosine_weight":0.7,"ranking/jaccard_weight":0.2}

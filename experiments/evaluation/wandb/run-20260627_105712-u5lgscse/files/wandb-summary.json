@@ -1,0 +1,1 @@
+{"evaluation/recall":0.4787486772486772,"evaluation/top_k":20,"_runtime":114,"evaluation/ndcg":0.574056924962328,"ranking/overlap_weight":0.2,"system/runtime_sec":113.63825345039368,"ranking/method":"hybrid","ranking/jaccard_weight":0.3,"evaluation/precision":0.36,"_timestamp":1.7825507478116822e+09,"ranking/cosine_weight":0.7,"_wandb":{"runtime":114},"_step":1}

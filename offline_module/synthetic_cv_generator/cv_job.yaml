@@ -1,0 +1,22 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: cv-generator-job
+
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+
+      containers:
+      - name: cv-generator
+        image: codebyte17/jobs-recommendations:v1_new
+
+        volumeMounts:
+        - name: output
+          mountPath: /output
+
+      volumes:
+      - name: output
+        persistentVolumeClaim:
+          claimName: jobs-pvc

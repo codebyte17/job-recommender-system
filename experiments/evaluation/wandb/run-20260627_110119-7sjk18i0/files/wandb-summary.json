@@ -1,0 +1,1 @@
+{"ranking/method":"hybrid","evaluation/precision":0.36,"system/runtime_sec":111.72911167144775,"ranking/jaccard_weight":0.2,"ranking/overlap_weight":0.15,"evaluation/top_k":20,"_step":1,"ranking/cosine_weight":0.6,"evaluation/ndcg":0.574056924962328,"_wandb":{"runtime":113},"_timestamp":1.782550995689596e+09,"evaluation/recall":0.4787486772486772,"_runtime":113}

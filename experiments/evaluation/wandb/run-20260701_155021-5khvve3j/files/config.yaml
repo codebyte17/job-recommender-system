@@ -1,0 +1,82 @@
+_wandb:
+    value:
+        cli_version: 0.28.0
+        e:
+            ymxie16qxmx4yfyn21rs0pamq1166op5:
+                codePath: experiments/recommendation engine/Exp02-trakcing.ipynb
+                cpu_count: 10
+                cpu_count_logical: 16
+                cudaVersion: "12.2"
+                disk:
+                    /:
+                        total: "999339061248"
+                        used: "366392782848"
+                email: waseemad174@gmail.com
+                executable: C:\Users\wasee\anaconda3\envs\nlp_gpu\python.exe
+                git:
+                    commit: d6a3a51311db639fd35a23f02aa3f16922d8edf0
+                    remote: https://github.com/codebyte17/job-recommender-system.git
+                gpu: NVIDIA GeForce RTX 4050 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 2560
+                      memoryTotal: "6439305216"
+                      name: NVIDIA GeForce RTX 4050 Laptop GPU
+                      uuid: GPU-9b0c5f48-0d39-9d3c-98e1-283d03003d72
+                host: Waseem-Ahmad
+                memory:
+                    total: "16869351424"
+                os: Windows-10-10.0.26200-SP0
+                program: experiments/recommendation engine/Exp02-trakcing.ipynb
+                python: CPython 3.11.15
+                root: C:\Users\wasee\Desktop\DS workflow\Job-recommender-System\job-recommender-system\experiments\recommendation engine
+                startedAt: "2026-07-01T13:50:21.483310Z"
+                writerId: ymxie16qxmx4yfyn21rs0pamq1166op5
+        m: []
+        python_version: 3.11.15
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 75
+                - 98
+            "2":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 41
+                - 49
+                - 51
+                - 53
+                - 71
+                - 75
+                - 98
+            "3":
+                - 2
+                - 14
+            "4": 3.11.15
+            "5": 0.28.0
+            "6": 4.51.3
+            "8":
+                - 1
+                - 2
+                - 3
+            "12": 0.28.0
+            "13": windows-amd64
+cosine_weight:
+    value: 0.402950911688324
+hybrid:
+    value: true
+jaccard_weight:
+    value: 0.14096221957197877
+top_k:
+    value: 15

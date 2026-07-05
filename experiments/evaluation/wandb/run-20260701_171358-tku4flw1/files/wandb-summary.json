@@ -1,0 +1,1 @@
+{"evaluation/precision":0.6100000000000001,"ranking/method":"cosine_only","_wandb":{"runtime":97},"_runtime":97,"evaluation/ndcg":0.6583767057367703,"evaluation/recall":0.24005423280423283,"evaluation/top_k":5,"_timestamp":1.7829189387907848e+09,"_step":1,"system/runtime_sec":97.46501207351685}

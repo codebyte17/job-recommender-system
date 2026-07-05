@@ -1,0 +1,14 @@
+wandb_version: 1
+
+cosine_weight:
+  value: 0.7
+cv_count:
+  value: 10
+hybrid:
+  value: true
+jaccard_weight:
+  value: 0.2
+overlap_weight:
+  value: 0.15
+top_k:
+  value: 20

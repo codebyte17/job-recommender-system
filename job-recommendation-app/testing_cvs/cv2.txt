@@ -1,0 +1,51 @@
+John Smith
+Email: [john.smith@email.com](mailto:john.smith@email.com) | Phone: +1 555-123-4567 | New York, NY
+
+Professional Summary
+
+Aspiring Machine Learning Engineer with experience in Python, data analysis, and artificial intelligence. Passionate about building machine learning models, solving real-world problems, and continuously learning new AI technologies.
+
+Skills
+
+* Python
+* Machine Learning
+* Deep Learning
+* TensorFlow
+* PyTorch
+* Scikit-learn
+* Pandas
+* NumPy
+* SQL
+* Git
+* FastAPI
+* Data Visualization
+
+Experience
+
+Machine Learning Intern
+ABC Technologies | Jan 2024 – Present
+
+* Assisted in developing and testing machine learning models.
+* Cleaned and analyzed datasets using Python and Pandas.
+* Evaluated model performance and prepared reports.
+* Collaborated with the development team to deploy AI solutions.
+
+Education
+
+Bachelor of Science in Computer Science
+XYZ University | 2020 – 2024
+
+Projects
+
+* Developed a customer churn prediction model using Scikit-learn.
+* Built an image classification model with TensorFlow.
+* Created a sentiment analysis application using NLP techniques.
+
+Certifications
+
+* Machine Learning Fundamentals
+* Python for Data Science
+
+Languages
+
+* English

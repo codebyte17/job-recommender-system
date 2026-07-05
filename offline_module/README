@@ -1,0 +1,26 @@
+ Working with K8S and Docker for the Offline module :
+
+ step 1) step the folder structure / image creation:
+    - create the job_cleanser.py
+    - define the docker for that
+    - build docker :  docker build -t job-nlp-classifier:latest .
+    - login the docker hub from terminal with : docker login
+    - tag the image on docker hub with the command :docker tag job-nlp-classifier:latest codebyte17/jobs-recommendations:latest
+    - push the image - docker push codebyte17/jobs-recommendations:offline-latest
+  Now we have the image on docker hub registry , which is ready for deployment on K8S
+
+  step 2) Define the jobs.yml file
+    - kind: job (it is job not deployment , means run only once and then finished from K8S)
+    - how to start on K8S :  kubectl apply -f jobs.yml
+
+  step 3) Some commands for kubectl to explore the pods and jobs
+    - see all pods : kubectl get pods
+    - see all jobs : kubectl get jobs
+    - check the logs of pod : kubectl logs  pod job-nlp-classifier2-fr8d6
+    - describe / know the pods details : kubectl describe pod job-nlp-classifier2-fr8d6
+
+
+
+
+ step last) copy the save file into local machine for further exploration with command
+    - kubectl cp pvc-debug:/mnt/jobs/processed_jobs.csv ./processed_jobs.csv

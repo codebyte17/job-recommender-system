@@ -1,0 +1,22 @@
+Max Müller
+
+ADDRESS
+Sindelfingen, Germany
+
+SUMMARY
+Highly motivated and organized part-time working student with a degree in Computer Science (Automotive Technology) looking for a challenging role in automated driving and driving assistance systems at Mercedes-Benz AG. Proven team player with excellent communication skills, strong affinity for IT and pragmatism.
+
+SKILLS
+- Programming languages: Python, C++, Java
+- Operating Systems: Windows
+- Software Tools: MS Office, Git, Jira
+- Familiarity with IT environments
+- Excellent problem-solving skills
+- Strong analytical and logical thinking
+
+EDUCATION
+Computer Science (Automotive Technology), University of Stuttgart
+- Currently studying for the 4th semester (2026/2027)
+- Expected graduation date: December 2028
+- Relevant courses: Software Development, Computer Networks, Database Management, Operating Systems
+- Certificate of Enrollment (current)"

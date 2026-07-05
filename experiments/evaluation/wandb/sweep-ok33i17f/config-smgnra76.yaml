@@ -1,0 +1,10 @@
+wandb_version: 1
+
+cosine_weight:
+  value: 0.41624723063864394
+hybrid:
+  value: false
+jaccard_weight:
+  value: 0.34735798045554744
+top_k:
+  value: 20

@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":88},"_step":0,"ranking/method":"hybrid","ranking/cosine_weight":0.7,"ranking/jaccard_weight":0.2,"ranking/overlap_weight":0.2,"_timestamp":1.7825495463555627e+09,"_runtime":88}

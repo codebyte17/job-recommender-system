@@ -1,0 +1,1 @@
+{"ranking/cosine_weight":0.5,"ranking/jaccard_weight":0.3,"_wandb":{"runtime":49},"_runtime":49,"ranking/overlap_weight":0.2,"_timestamp":1.782549785337465e+09,"_step":0,"ranking/method":"hybrid"}

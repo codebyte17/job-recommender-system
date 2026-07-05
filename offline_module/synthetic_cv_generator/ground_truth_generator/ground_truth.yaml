@@ -1,0 +1,22 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: ground-truth-scorer
+
+spec:
+  template:
+    spec:
+      restartPolicy: Never
+
+      containers:
+      - name: ground-truth-generator
+        image: codebyte17/jobs-recommendations:cv10
+
+        volumeMounts:
+        - name: output
+          mountPath: /output
+
+      volumes:
+      - name: output
+        persistentVolumeClaim:
+          claimName: jobs-pvc
