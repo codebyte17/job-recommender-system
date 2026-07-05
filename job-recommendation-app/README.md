@@ -285,15 +285,15 @@ Response
 
 # Technology Stack
 
-| Component | Technology |
-|------------|------------|
-| Backend | FastAPI |
-| Frontend | Streamlit |
-| Task Queue | Celery |
-| Broker | Redis *(if applicable)* |
-| Database | MongoDB |
-| Monitoring | Prometheus |
-| Recommendation | Sentence Transformers / FAISS *(update if needed)* |
+| Component | Technology                     |
+|------------|--------------------------------|
+| Backend | FastAPI                        |
+| Frontend | Streamlit                      |
+| Task Queue | Celery                         |
+| Broker | Redis                          |
+| Database | MongoDB                        |
+| Monitoring | Prometheus ,Flower             |
+| Recommendation | Sentence Transformers / Qdrant |
 
 ---
 
